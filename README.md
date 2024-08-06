@@ -1,7 +1,11 @@
 # FITFREAK-Digital-Marketing-Project
 ## Digital Marketing Project
 ### One of the lead contributors to the project
-# FitFreak: Your Ultimate Online Fitness Companion
+# FitFreak: Your Ultimate Online Fitness Companion 
+https://shreyamlbf538.wixsite
+.com/fitfreak
+![image](https://github.com/user-attachments/assets/1ba1acdb-dd18-496f-997a-2ff72bc815ec)
+
 
 ## Introduction
 FitFreak is an online platform dedicated to empowering individuals to achieve their health and wellness goals. Whether you're a seasoned gym-goer or just starting out, FitFreak offers customized workout plans, personal training sessions, nutritional guidance, and a supportive community to help you every step of the way.
