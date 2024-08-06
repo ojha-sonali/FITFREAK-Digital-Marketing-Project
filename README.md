@@ -2,8 +2,7 @@
 ## Digital Marketing Project
 ### One of the lead contributors to the project
 # FitFreak: Your Ultimate Online Fitness Companion 
-https://shreyamlbf538.wixsite
-.com/fitfreak
+https://shreyamlbf538.wixsite.com/fitfreak
 ![image](https://github.com/user-attachments/assets/1ba1acdb-dd18-496f-997a-2ff72bc815ec)
 
 
