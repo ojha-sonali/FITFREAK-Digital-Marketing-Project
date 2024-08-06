@@ -1,5 +1,6 @@
 # FITFREAK-Digital-Marketing-Project
-Digital Marketing Project
+## Digital Marketing Project
+### One of the lead contributors to the project
 # FitFreak: Your Ultimate Online Fitness Companion
 
 ## Introduction
